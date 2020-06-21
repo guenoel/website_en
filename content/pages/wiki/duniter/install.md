@@ -51,7 +51,7 @@ You will control your instance using command line tools, but if you want you cou
 
 ### Download package
 
-Go to the [release page](https://git.duniter.org/nodes/typescript/duniter/wikis/Releases) to get a link to the last stable release.
+Go to the [release page](https://git.duniter.org/nodes/typescript/duniter/-/releases) to get a link to the last stable release.
 
 Choose the file you need:
 
